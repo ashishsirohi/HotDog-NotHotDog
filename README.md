@@ -17,9 +17,9 @@ Instructions can be found here : https://www.tensorflow.org/install/
 not hot dog          : 0.90415
 hot dog              : 0.09585
 ```
-6. For hot dog run `python label_dog.py test/hotdog.jpg`
+6. For hot dog run `python hotDogNotHotDog.py test/hotdog.jpg`
 ![hotdog](test/hotdog.jpg)
-7. The result comes out as 
+7. The result should be: 
 ```
 hot dog              : 0.99771
 not hot dog          : 0.00229
