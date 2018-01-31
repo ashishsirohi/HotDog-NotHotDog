@@ -9,17 +9,17 @@ Retraining has been done by replacing last layer of Inception model and I have u
 1. Install the TensorFlow. 
 Instructions can be found here : https://www.tensorflow.org/install/
 2. Clone this repository and start terminal.
-2. Run `python hotDogNotHotDog.py test/dog.jpg`
+3. Run `python hotDogNotHotDog.py test/dog.jpg`
 ![Dog](test/dog.jpg)
-3. Wait for the model's prediction.
-4. Here's the result you should expect if things work correctly:
+4. Wait for the model's prediction.
+5. Here's the result you should expect if things work correctly:
 ```
 not hot dog          : 0.90415
 hot dog              : 0.09585
 ```
-5. For hot dog run `python label_dog.py test/hotdog.jpg`
+6. For hot dog run `python label_dog.py test/hotdog.jpg`
 ![hotdog](test/hotdog.jpg)
-6. The result comes out as 
+7. The result comes out as 
 ```
 hot dog              : 0.99771
 not hot dog          : 0.00229
