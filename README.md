@@ -1,5 +1,5 @@
 # hotDog or notHotDog
-This repo is inspired from Jin Yang's cool startup idea called "SeeFood" from HBO's Silicon Valley tv series.
+This repo is inspired from Jian Yang's cool startup idea called "SeeFood" from HBO's Silicon Valley tv series.
 
 I have used Google TensorFlow's incpetion model. Inception has been battle-tested, delivering world-class results in the widely-acknowledged ImageNet Large Scale Visual Recognition Challenge (ILSVRC). It’s also designed to be computationally efficient, using 12x fewer parameters than other competitors, allowing Inception to be used on less-powerful systems.<br/>
 
